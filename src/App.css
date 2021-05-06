@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+h1 {
+  color: coral;
+}
 .head {
   color: red;
 }

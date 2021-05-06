@@ -23,7 +23,7 @@ class Age extends Component {
     return (
       <div>
         <h1>Welcome {this.state.name}</h1>
-        <h1>Please click on the button below to enter your name</h1>
+        <h2>Please click on the button below to enter your name</h2>
         <button onClick={this.getName}>Enter Name</button>
         {/* Input field added */}
         <h2>Please enter your birthdate</h2>
